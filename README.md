@@ -18,6 +18,11 @@
 | ⏰ 数字电路 | `Digital-circuit/clock_project` | 电子钟设计，使用 7 段数码管和按键控制，支持时间设置与闹钟。 |
 | 🔍 图像处理 | `Image-processing/homework` | 图像滤波、边缘检测等基础算法的 OpenCV 实现。交互式GUI界面设计 |
 | 🌐 计算机网络 | `Network/tcp_experiment` | 使用 Socket 编程实现简单的 TCP 通信模拟。 |
+| 🔐 信息安全与区块链 | `Blockchain and bicoin` | 包含加密通信、可验证数字签名、基于共识机制的虚拟货币发行与合约设计。 |
+| 📄 说明文写作 | `Multimodal-LLM-Tuning-Survey` | 一篇英文综述论文，系统介绍多模态大语言模型的指令微调，包括数据集构建、微调方法、模型框架与评估标准。 |
+
+
+
 
 ---
 

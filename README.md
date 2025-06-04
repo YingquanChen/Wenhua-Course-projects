@@ -42,9 +42,10 @@
 
 如有交流意愿或对项目内容感兴趣，欢迎联系我！
 
-- ✉️ Email: your_email@example.com
-- 📃 CSDN/博客（可选）：[链接]
-- 🔗 其他 GitHub 仓库推荐：[你的 AI 项目仓库链接（如有）]
+- ✉️ Email: 2022280297@email.szu.edu.cn
+- 📃 CSDN/博客：[[链接](https://blog.csdn.net/diert)]
+- Acwing算法社区:https://www.acwing.com/user/myspace/index/482985/
+- 
 
 ---
 

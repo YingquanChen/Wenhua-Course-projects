@@ -13,7 +13,7 @@
 | 类别 | 项目名称 | 简介 |
 |------|----------|------|
 | 🤖 人工智能 | `Machine-learning/garbage_classify` | 垃圾分类图像识别项目，基于 CNN 模型进行多类图像分类。 |
-| 🧠 深度学习 | `Machine-learning/efficientnet_demo` | 使用 EfficientNet 模型进行图像特征提取与分类实验。 |
+| 🧠 深度学习 | `Swim-Transformer` | 使用 swim-transformer 的推理分割模型在自己构建的数据集上进行篡改图像特征提取与分类实验。（尚未上传 |
 | 📡 嵌入式系统 | `Intelligent-ummaned-system` | 无人系统实验，含智能小车的人体跟随与手势交互控制。 无人机姿态控制和定高飞行|
 | ⏰ 数字电路 | `Digital-circuit/clock_project` | 电子钟设计，使用 7 段数码管和按键控制，支持时间设置与闹钟。 |
 | 🔍 图像处理 | `Image-processing/homework` | 图像滤波、边缘检测等基础算法的 OpenCV 实现。交互式GUI界面设计 |
@@ -40,6 +40,7 @@
 - [ ] 添加项目截图 / 示意图 / 视频演示链接（展示效果更直观）
 - [ ] 分类添加标签（AI、嵌入式、图像处理等）
 - [ ] 展示蓝桥杯和数模国赛的准备过程
+- [ ] 上传展示在科研经历中的项目实现代码
 
 ---
 

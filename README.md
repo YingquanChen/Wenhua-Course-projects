@@ -15,11 +15,13 @@
 | 🤖 人工智能 | `Machine-learning/garbage_classify` | 垃圾分类图像识别项目，基于 CNN 模型进行多类图像分类。 |
 | 🧠 深度学习 | `Swim-Transformer` | 使用 swim-transformer 的推理分割模型在自己构建的数据集上进行篡改图像特征提取与分类实验。（尚未上传 |
 | 📡 嵌入式系统 | `Intelligent-ummaned-system` | 无人系统实验，含智能小车的人体跟随与手势交互控制。 无人机姿态控制和定高飞行|
-| ⏰ 数字电路 | `Digital-circuit/clock_project` | 电子钟设计，使用 7 段数码管和按键控制，支持时间设置与闹钟。 |
+| ⏰ 单片机课程 | `Digital-circuit/clock_project` | 设计一个婴儿智能看护车，利用温湿度传感器，红外模块，蓝牙模块来对异常情况进行警告并发送短信，带有音乐播放和摇篮功能 |
 | 🔍 图像处理 | `Image-processing/homework` | 图像滤波、边缘检测等基础算法的 OpenCV 实现。交互式GUI界面设计 |
 | 🌐 计算机网络 | `Network/tcp_experiment` | 使用 Socket 编程实现简单的 TCP 通信模拟。 |
 | 🔐 信息安全与区块链 | `Blockchain and bicoin` | 包含加密通信、可验证数字签名、基于共识机制的虚拟货币发行与合约设计。 |
 | 📄 说明文写作 | `Multimodal-LLM-Tuning-Survey` | 一篇英文综述论文，系统介绍多模态大语言模型的指令微调，包括数据集构建、微调方法、模型框架与评估标准。 |
+| 🔧 电子电路 | `Electronic-circuit/pulse_detector` | 人体脉搏检测器设计，先通过 Multisim 等工具进行电路仿真，再进行实物电路板布线与焊接实现。 |
+
 
 
 

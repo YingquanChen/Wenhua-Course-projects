@@ -1,0 +1,66 @@
+<mxfile host="app.diagrams.net" modified="2024-05-18T08:05:28.003Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="TdMaZhdba8oXV966nJh3" version="24.4.3" type="device">
+  <diagram name="第 1 页" id="QTBfQjtsS0BCa1L0tEPR">
+    <mxGraphModel dx="940" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PJ1zkUlH9uJq85zaALm0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PJ1zkUlH9uJq85zaALm0-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="445" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PJ1zkUlH9uJq85zaALm0-1" value="&lt;ol style=&quot;box-sizing: inherit; margin-block-start: 1em; padding-inline-start: 2em; color: rgb(6, 6, 7); font-family: -apple-system, blinkmacsystemfont, &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;segoe ui&amp;quot;, arial, roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; font-size: 14px; letter-spacing: 0.5px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li style=&quot;box-sizing: inherit;&quot;&gt;&lt;span style=&quot;box-sizing: inherit; font-weight: 700;&quot;&gt;Start&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="50" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PJ1zkUlH9uJq85zaALm0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="445" y="220" as="targetPoint" />
+            <mxPoint x="445" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PJ1zkUlH9uJq85zaALm0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="310" as="targetPoint" />
+            <mxPoint x="440" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PJ1zkUlH9uJq85zaALm0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="PJ1zkUlH9uJq85zaALm0-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="400" as="targetPoint" />
+            <mxPoint x="440" y="370" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PJ1zkUlH9uJq85zaALm0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PJ1zkUlH9uJq85zaALm0-9" target="PJ1zkUlH9uJq85zaALm0-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PJ1zkUlH9uJq85zaALm0-9" value="Estimate Time Delays Using Cross-Correlation" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="380" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PJ1zkUlH9uJq85zaALm0-10" value="Receive Signal at Each Microphone" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="380" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PJ1zkUlH9uJq85zaALm0-11" value="&lt;b&gt;Place Microphones and Calculate Distances&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PJ1zkUlH9uJq85zaALm0-12" value="&lt;div&gt;Record/Simulate Speech Signal&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="385" y="130" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PJ1zkUlH9uJq85zaALm0-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PJ1zkUlH9uJq85zaALm0-13" target="PJ1zkUlH9uJq85zaALm0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PJ1zkUlH9uJq85zaALm0-13" value="Align Signals Based on Estimated Delays" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PJ1zkUlH9uJq85zaALm0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PJ1zkUlH9uJq85zaALm0-15" target="PJ1zkUlH9uJq85zaALm0-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PJ1zkUlH9uJq85zaALm0-15" value="Sum Aligned Signals" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PJ1zkUlH9uJq85zaALm0-17" value="Enhance Signal Quality" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
